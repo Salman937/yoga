@@ -1,0 +1,131 @@
+body
+{
+	color: #808080;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.navbar
+{
+  text-align:center;
+}
+.navbar-nav 
+{
+    display:inline-block;
+    float:none;
+    letter-spacing: 3px;
+}
+.navbar-nav li:nth-child(1),.navbar-nav li:nth-child(2)
+{
+	/*margin-right:  -1em;*/
+}
+.navbar-default
+{
+	background-color: white;
+}
+
+/*yoga section*/
+.yoga
+{
+    background-color: #fff7e2;
+    margin-top: 4em;
+    background-image: url('../images/Art.png');
+    background-repeat: no-repeat;
+    background-position: 50% 25%; 
+}
+.heading1
+{
+    margin-top: 9em;
+    letter-spacing: 1px;
+}
+.heading2
+{
+    margin-top: 80px;
+    margin-bottom: 40px;
+    letter-spacing: 4px;
+}
+
+/* yoga-images */
+
+.yoga-images
+{
+	margin-top: 10em;
+	padding-left: 8em;
+	text-align: center;
+}
+.yoga-images p
+{
+	padding:2em;
+}
+.footer
+{
+	margin-top: 3em;
+}
+
+.healingsection
+{
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+.healingsection img
+{
+	margin-left: 8em; 
+}
+.thumbnail
+{
+    background-image: url("../images/image5.png");
+    background-image:
+    height: 200px;
+    text-align: center;
+    padding-top: 60px;
+}
+.team
+{
+	background-color: #fff7e2;
+	padding-top: 3em;
+	padding-bottom: 4em;
+}
+
+.behands
+{
+	background-color: #fff7e2;
+	padding-top: 5em;
+	margin-top: 5em;
+	padding-left: 12em;
+	padding-bottom: 4em;
+}
+.behands h4
+{
+	margin-left: 30%;
+}
+.kurser
+{
+	margin-top: 3em;
+}
+.dot {
+	    height: 4px;
+	    width: 4px;
+	    background-color: #bbb;
+	    border-radius: 50%;
+	    display: inline-block;
+	    margin-bottom: 0.3em
+}
+.calendar
+{
+	margin-top: 50px;
+}
+.heading
+{
+	background-color: #dedbdb;
+	text-align: center;
+	margin: 1em;
+	height: 25px;
+	border-radius: 5px;
+	padding-top: 3px;
+}
+.form-control
+{
+	border-radius: 0px;
+}
+.find-us p
+{
+	padding-right: 17em;
+}

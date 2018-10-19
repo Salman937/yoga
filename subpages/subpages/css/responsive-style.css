@@ -1,0 +1,111 @@
+@media only screen and (max-width : 1200px) 
+{   
+  .yoga-images
+  {
+      margin-top: 10em;
+      padding-left: 0em;
+      margin-left: 2em;
+  }
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) 
+{
+
+.navbar 
+  {
+    text-align:center;
+    background-color: #ffffff;
+  }
+.navbar-nav 
+  {
+   display:inline-block;
+   float:none;
+  }
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) 
+{
+
+  .bookingpara
+  {
+    padding-top: 30px;
+  }    
+
+  .navbar .navbar-nav li
+  {
+   display: inline-block !important;
+  }
+
+  .navbar 
+  {
+  text-align:center;
+  background-color: #ffffff;
+  }
+  .navbar-nav 
+  {
+   display:inline-block;
+   float:none;
+  }
+  .healingsection img
+  {
+    margin-left: 0em; 
+    margin-bottom: 1.5em;
+  }
+}
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (max-width : 480px) 
+{ 
+
+  .navbar .navbar-nav li
+  {
+   display: inline-block !important;
+  }
+  .navbar 
+  {
+  text-align:center;
+  background-color: #ffffff;
+  }
+  .navbar-nav 
+  {
+   display:inline-block;
+   float:none;
+  }
+  .yoga
+    {
+        background-position: 50% 45%; 
+    }
+    .heading1
+    {
+        margin-top: 10em;
+    }
+}
+
+/* Custom, iPhone Retina */ 
+@media only screen and (max-width : 320px) 
+{
+
+.bookingpara
+{
+  padding-top: 30px;
+}    
+
+.navbar .navbar-nav li
+{
+ display: inline-block !important;
+}
+
+.navbar 
+{
+text-align:center !important;
+background-color: #ffffff;
+}
+.navbar-nav 
+{
+ display:inline-block !important;
+ float:none !important;
+}
+
+}

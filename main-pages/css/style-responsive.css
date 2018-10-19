@@ -1,0 +1,87 @@
+@media only screen and (max-width : 1200px) 
+{   
+    .yoga-images
+    {
+        margin-top: 10em;
+        padding-left: 0em;
+        margin-left:4em;
+    }
+    .behands
+    {
+        padding-left: 0em;
+    }
+
+    .behands h4
+    {
+        margin-left: 37%;
+    }
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) 
+{
+    .yoga-images p
+    {
+        padding:2em 5em 2em 5em;
+    }
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) 
+{
+    .yoga-images
+    {
+        margin-top: 10em;
+        margin-left: 0em;
+        text-align: center;
+    }
+    .navbar .navbar-nav li
+    {
+        display: inline-block !important;
+    }
+    .healingsection img
+    {
+        margin-left: 0em; 
+    }
+    .behands .padding
+    {
+        padding-bottom: 1em;
+    }
+}
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (max-width : 480px) 
+{
+    .navbar .navbar-nav li
+    {
+        display: inline-block !important;
+    }
+    .yoga
+    {
+        background-position: 50% 35%; 
+    }
+    .heading1
+    {
+        margin-top: 10em;
+    }
+    .find-us p
+    {
+        text-align: justify;
+        padding-right: 3em;
+    }
+    .behands h4
+    {
+        margin-left: 17%;
+    }
+
+    .behands .padding img
+    {
+        margin-left: 26%;
+    }
+}
+
+/* Custom, iPhone Retina */ 
+@media only screen and (max-width : 320px) 
+{
+
+}

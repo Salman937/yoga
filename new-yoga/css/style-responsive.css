@@ -1,0 +1,56 @@
+@media only screen and (max-width : 1200px) 
+{   
+    .carousel
+    {
+        margin-left: 12em;
+    }
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) 
+{
+    .carousel
+    {
+        margin-left: 8em;
+    }
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) 
+{
+    .navbar-default
+    {
+      background-color: rgb(255,249,229);
+      border:none;
+    }
+    .carousel
+    {
+        width: 100%;
+        margin-left: 0em;
+    }
+}
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (max-width : 480px) 
+{
+    .yoga
+    {
+        background-position: 50% 35%; 
+        margin-top: 3em;
+    }
+    .heading1
+    {
+        margin-top: 8em;
+    }
+    .carousel
+    {
+        width: 100%;
+        margin-left: 0em;
+    }
+}
+
+/* Custom, iPhone Retina */ 
+@media only screen and (max-width : 320px) 
+{
+
+}

@@ -1,0 +1,84 @@
+body
+{
+	color: #808080;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.navbar 
+{
+ text-align:center;
+ background-color: #ffffff;
+}
+.navbar-nav 
+{
+   display:inline-block;
+   float:none;
+   letter-spacing: 3px;
+}
+
+/*yoga section*/
+.yoga
+{
+	background-color: #fff7e2;
+    margin-top: 3.5em;
+    background-image: url('../images/Art.png');
+    background-repeat: no-repeat, repeat;
+    background-position: 50% 25%; 
+}
+
+.heading1
+{
+    margin-top: 9em;
+    letter-spacing: 1px;
+}
+.heading2
+{
+    margin-top: 80px;
+    margin-bottom: 40px;
+    letter-spacing: 1px;
+}
+
+.healingsection
+{
+	margin-top: 90px;
+}
+.healingsection img
+{
+	margin-left: 8em; 
+}
+.thumbnail instruktor
+{
+	background-image: url("../3.jpg");
+	height: 200px;
+	text-align: center;
+	padding-top: 60px;
+}
+
+.holisticks
+{
+	margin-bottom: 12em;
+}
+
+.instruktor
+{
+	background-image: url("../images/image5.png");
+	height: 350px;
+	text-align: center;
+	padding-top: 60px;
+}
+.instructor
+{
+	margin-bottom: 10em;
+}
+
+.instruktorcaption
+{
+	padding-top: 85px;
+}
+.dot {
+    height: 4px;
+    width: 4px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    margin-bottom: 0.3em
+}
